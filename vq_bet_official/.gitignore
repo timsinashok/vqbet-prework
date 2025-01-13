@@ -1,3 +1,9 @@
+data
+data/
+
+transfer cube human data/
+transfer cube human data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
